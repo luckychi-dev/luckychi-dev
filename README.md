@@ -2,9 +2,7 @@
 
 ### Full-Stack Software Engineer | AI Developer | Cloud Engineer
 
-I build scalable web applications, APIs, automation tools, AI-powered solutions, payment systems and cloud infrastructure.
-
-I'm passionate about solving real-world problems through software, whether it's building SaaS products, developer tools, FinTech platforms, automation systems or enterprise applications.
+I’m a Full-Stack Software Engineer passionate about building reliable software that helps businesses scale. I enjoy designing APIs, cloud infrastructure, automation tools, payment systems, AI integrations and modern web applications.
 
 ---
 
